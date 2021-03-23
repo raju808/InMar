@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InMarCodeTest", "InMarCodeTest\InMarCodeTest.csproj", "{B7F599A1-1B5C-43DD-A359-2057E487D2C6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InMarAPI", "InMarAPI\InMarAPI.csproj", "{BAA9C2E8-0A84-4FB1-957F-96A2E224832B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B7F599A1-1B5C-43DD-A359-2057E487D2C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7F599A1-1B5C-43DD-A359-2057E487D2C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7F599A1-1B5C-43DD-A359-2057E487D2C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7F599A1-1B5C-43DD-A359-2057E487D2C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BAA9C2E8-0A84-4FB1-957F-96A2E224832B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAA9C2E8-0A84-4FB1-957F-96A2E224832B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAA9C2E8-0A84-4FB1-957F-96A2E224832B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAA9C2E8-0A84-4FB1-957F-96A2E224832B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5EBAB1E8-4537-43E9-AB87-24F123E5AF20}
+	EndGlobalSection
+EndGlobal
